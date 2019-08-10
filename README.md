@@ -1,5 +1,3 @@
-# Spotify Data Analysis 
-
 ## Project Description
 
 The primary aim of this project was to investigate what factors affect the popularity of the song most heavily for different genres. As there were so many genres, few of them were selected: dance, pop, electronic and R&B. The factors that were examined included energy, valence, danceability and acousticness: factors that were uniquely measured by the Spotify app. 
