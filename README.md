@@ -14,4 +14,15 @@ The data used was extracted from the world-wide used music app Spotify and was f
 
 ## Analysis
 
-![Dance Music](/desktop/danceMusic_energy.png)
+<img src = "img/danceMusic_energy.png" width = "400" height = "400" > <img src="img/danceMusic_acousticness.png" width = "400" height = "400">
+
+For all of the graphs of acousticness vs. popularity and energy vs. populairty, the correlation is between -0.1 and 0.1 with one exception. Although energy vs. popularity for 0.5<valence & danceability<= 0.5 has a correlation slightly lower than -0.1, this is not sufficient evidence to say that energy affects the popularity. Therefore, it can be concluded that neither energy nor acousticness affects the popularity significantly for dance music. Furthermore, as the range of popularity is similar amongst all of the graphs, it can be deduced that valence and danceability doesn't affect the popularity of dance music too.
+
+
+<img src = "img/popMusic_energy.png" width ="400" height = "400"> <img src="img/popMusic_acousticness.png" width="400" height = "400">
+
+Similar to the graphs of the genre dance, all of the graphs for pop music also have a very weak correlation between -0.1 and 0.05. Also, the range of the popularity doesn't change significantly for each control, containing only slight anomalies. Thus, the same conclusion can be reached for the pop genre that popularity is not affected by any of the categories.
+
+<img src = "img/rnbMusic_energy.png" width ="400" height = "400"> <img src="img/rnbMusic_acousticness.png" width="400" height = "400"> 
+
+The pattern of having very weak correlation amongst all graph can also be found in the R&B genre.  
