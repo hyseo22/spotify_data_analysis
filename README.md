@@ -4,7 +4,7 @@ The primary aim of this project was to investigate what factors affect the popul
 
 The hypothesis for this project was that different genres will have similar factors that affect the popularity the most. Furthermore, it was inferred that the average of the popularity of the songs will differ for each genre; This was the reason why the project was explored for differnet genre. 
 
-After this investigation, an extention was done to see which key was frequently used for a song and the average popularity for tracks in each key. The correlation between these two were looked at to answer the question if a key for a song was determined by considering the average popularity of a key. The expectation was that no correlation would be found.  
+After this investigation, an extention was done to see which key was frequently used for a song and the average popularity for tracks in each key. The correlation between these two were looked at to answer the question if a key for a song was determined by considering the average popularity of a key. As a key in major is not equal to the same key in minor, two seperate calculations were made the different modes. The expectation was that no correlation would be found for either mode.  
 
 ## Data Description
 
@@ -29,6 +29,8 @@ R&B genre continues the pattern of having very weak correlation amongst all grap
  
  <img src = "img/electronicMusic_energy.png" width ="400" height = "400"> <img src="img/electronicMusic_acousticness.png" width="400" height = "400"> 
  
-Although the number of tracks differ dramatically for each control of valence and danceability, there is still a very weak correlation in the electronic genre with the strongest correlation being -0.1202 and the weakest being 0.0393. On the other hand, the range of the popularity shows slight changes for each control yet the majority still remains inside the similar range. Therefore, it can also be concluded that danceability, valence, energy and cacousticness does not affect the popularity of electronic music. 
+Although the number of tracks differ dramatically for each control of valence and danceability, there is still a very weak correlation in the electronic genre with the strongest correlation being -0.1202 and the weakest being 0.0393. On the other hand, the range of the popularity shows slight changes for each control yet the majority still remains inside the similar range. Therefore, it can also be concluded that danceability, valence, energy and acousticness does not affect the popularity of electronic music. 
  
-
+ ## Extension
+ 
+  <img src = "img/major.png"> 
