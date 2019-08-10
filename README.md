@@ -13,3 +13,4 @@ The data used was extracted from the world-wide used music app Spotify and was f
 18 diffent information for each 232,725 tracks across 26 genres are contained in the data and the explanation for each measure can be found in this website: https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/
 
 ## Analysis
+![Dance Music Popularity vs. energy](/desktop/danceMusic_energy.png)
