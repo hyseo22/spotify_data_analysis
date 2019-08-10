@@ -29,6 +29,6 @@ R&B genre continues the pattern of having very weak correlation amongst all grap
  
  <img src = "img/electronicMusic_energy.png" width ="400" height = "400"> <img src="img/electronicMusic_acousticness.png" width="400" height = "400"> 
  
- 
+Although the number of tracks differ dramatically for each control of valence and danceability, there is still a very weak correlation in the electronic genre with the strongest correlation being -0.1202 and the weakest being 0.0393. On the other hand, the range of the popularity shows slight changes for each control yet the majority still remains inside the similar range. Therefore, it can also be concluded that danceability, valence, energy and cacousticness does not affect the popularity of electronic music. 
  
 
