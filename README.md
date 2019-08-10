@@ -14,4 +14,4 @@ The data used was extracted from the world-wide used music app Spotify and was f
 
 ## Analysis
 
-![Dance Music](/desktop/danceMusic_energy.png)
+<img src = "img/DanceMusic_energy.png" width="450" height="450"> <img src="img/danceMusic_acousticess.png" width="450" height="500">
