@@ -20,4 +20,9 @@ For all of the graphs of acousticness vs. popularity and energy vs. populairty, 
 
 
 <img src = "img/popMusic_energy.png" width ="400" height = "400"> <img src="img/popMusic_acousticness.png" width="400" height = "400">
-Similar to the graphs of the genre dance, 
+
+Similar to the graphs of the genre dance, all of the graphs for pop music also have a very weak correlation between -0.1 and 0.05. Also, the range of the popularity doesn't change significantly for each control, containing only slight anomalies. Thus, the same conclusion can be reached for the pop genre that popularity is not affected by any of the categories.
+
+<img src = "img/rnbMusic_energy.png" width ="400" height = "400"> <img src="img/rnbMusic_acousticness.png" width="400" height = "400"> 
+
+
