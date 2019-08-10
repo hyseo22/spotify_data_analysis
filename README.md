@@ -25,4 +25,4 @@ Similar to the graphs of the genre dance, all of the graphs for pop music also h
 
 <img src = "img/rnbMusic_energy.png" width ="400" height = "400"> <img src="img/rnbMusic_acousticness.png" width="400" height = "400"> 
 
-
+The pattern of having very weak correlation amongst all graph can also be found in the R&B genre.  
