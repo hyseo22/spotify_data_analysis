@@ -33,4 +33,4 @@ Although the number of tracks differ dramatically for each control of valence an
  
  ## Extension
  
-  <img src = "img/major.png"> 
+  <img src = "img/major.png" width = "700"> 
